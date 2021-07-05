@@ -1,8 +1,8 @@
 
 pipelines:
-  - name: A_projectIntegration_0074
+  - name: A_ProjectIntegration_0074
     steps:
-      - name: A_projectIntegration_0074_1
+      - name: A_ProjectIntegration_0074_1
         type: Bash
         execution:
           onExecute:
